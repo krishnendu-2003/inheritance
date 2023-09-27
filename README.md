@@ -1,3 +1,3 @@
 # inheritance
 
-how is constructor is evoked.
+How to access private data member of any class
